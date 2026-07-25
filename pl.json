@@ -528,14 +528,6 @@
         "PitchShift": 1
       }
     },
-    {
-      "Title": "Company (Afro)",
-      "ID": 105627478035187,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 0.7
-      }
-    }
   ],
   "Black Eyed Peas": [
     {
@@ -1466,22 +1458,6 @@
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Saturn (Afro)",
-      "ID": 96179325580428,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 0.5
-      }
-    },
-    {
-      "Title": "Saturn (Afro)",
-      "ID": 101274433548158,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 0.15
       }
     }
   ],
@@ -4161,26 +4137,6 @@
       }
     }
   ],
-  "Rizky Febian": [
-    {
-      "Title": "Cuek (Afro)",
-      "ID": 73183171670440,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Shouse": [
-    {
-      "Title": "Love Tonight (Afro)",
-      "ID": 89037999991230,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
   "UNKNOWN": [
     {
       "Title": "Shoot No Na (Miami Bass)",
@@ -4375,104 +4331,8 @@
       }
     },
     {
-      "Title": "BERUBAH - AFRO",
-      "ID": 130410529876241,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "蒋雪儿 - AFRO",
-      "ID": 132049153370517,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "BULAN MADU - AFRO",
-      "ID": 126080514889683,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "JABLAI - AFRO",
-      "ID": 97421718182821,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "AKU DAH LUPA - AFRO",
-      "ID": 92935406671805,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "GELORA ASMARA - AFRO",
-      "ID": 120142733791791,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "AMAPIANO",
       "ID": 83390107725154,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "KAMU (AFRO-BOUNCE)",
-      "ID": 133115571738399,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "COULD BE US (AFRO)",
-      "ID": 76783088452896,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "BETTER (AFRO)",
-      "ID": 102563472326299,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "WOULD - AFRO",
-      "ID": 75454461932320,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "ME U - AFRO",
-      "ID": 83696942166341,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "LANTAS (AFRO)",
-      "ID": 112418725860780,
       "PlaybackSpeed": 1,
       "VoiceEffects": {
         "PitchShift": 1
