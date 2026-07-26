@@ -2377,6 +2377,54 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "Dance Now (ft. Kenny Mason)",
+      "ID": 136748741639669,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "151 Rum",
+      "ID": 80591244836716,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Never",
+      "ID": 109471855773733,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Off Deez (ft. J. Cole)",
+      "ID": 94099789143385,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "RAYDAR",
+      "ID": 89418840709462,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Bruuuh (Remix) (ft. Denzel Curry)",
+      "ID": 137800641947719,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "Gunna": [
@@ -2398,8 +2446,8 @@
     },
     {
       "Title": "fukumean",
-      "ID": 126742036041952,
-      "PlaybackSpeed": 0.385,
+      "ID": 106083829784187,
+      "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
       }
@@ -2415,6 +2463,38 @@
     {
       "Title": "DOLLAZ ON MY HEAD (ft. Young Thug)",
       "ID": 99259597221849,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "SKYBOX",
+      "ID": 101658882127657,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "South To West",
+      "ID": 116785157231206,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Prada Dem (ft. Offset)",
+      "ID": 110891989336702,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "bread & butter",
+      "ID": 100480220039301,
       "PlaybackSpeed": 0.417,
       "VoiceEffects": {
         "PitchShift": 1
@@ -3863,6 +3943,46 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "Freestyle",
+      "ID": 113068760791639,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Woah",
+      "ID": 81339354878895,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Emotionally Scarred",
+      "ID": 103295857604230,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "On Me",
+      "ID": 92741287167684,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Commercial (ft. Lil Uzi Vert)",
+      "ID": 121724868074854,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "Young Thug": [
@@ -4006,6 +4126,90 @@
       "Title": "Options (ft. 24kGoldn)",
       "ID": 115291133863340,
       "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+  "Roddy Ricch": [
+    {
+      "Title": "The Box",
+      "ID": 85805203705834,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Late At Night",
+      "ID": 129173497805865,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Down Below",
+      "ID": 120536260517432,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "High Fashion (ft. Mustard)",
+      "ID": 120907377996260,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Real Talk",
+      "ID": 114955365810999,
+      "PlaybackSpeed": 0.417,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Big Stepper",
+      "ID": 107834033588554,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Die Young",
+      "ID": 78749195113834,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Every Season",
+      "ID": 111431362537992,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "25 Million",
+      "ID": 98086992423207,
+      "PlaybackSpeed": 0.37,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+  "Dreamville": [
+    {
+      "Title": "Stick (ft. JID, Kenny Mason, Sheck Wes & J. Cole)",
+      "ID": 106928863258617,
+      "PlaybackSpeed": 0.37,
       "VoiceEffects": {
         "PitchShift": 1
       }
