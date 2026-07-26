@@ -589,14 +589,6 @@
       }
     },
     {
-      "Title": "Rude Boy",
-      "ID": 105130101388638,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Wild Thoughts",
       "ID": 122249792099818,
       "PlaybackSpeed": 0.4,
@@ -824,24 +816,6 @@
       "Title": "KO",
       "ID": 114355505294236,
       "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Craig David": [
-    {
-      "Title": "Insomnia",
-      "ID": 71901537774660,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 0.9
-      }
-    },
-    {
-      "Title": "7 Days",
-      "ID": 86224472943816,
-      "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
       }
@@ -1157,26 +1131,6 @@
       }
     }
   ],
-  "Mariah Carey": [
-    {
-      "Title": "Thank God I Found You",
-      "ID": 129747698996984,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Jack Harlow": [
-    {
-      "Title": "Lovin On Me",
-      "ID": 129446422433445,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
   "The Weeknd": [
     {
       "Title": "After Hours",
@@ -1227,24 +1181,6 @@
       }
     }
   ],
-  "Martin Garrix": [
-    {
-      "Title": "In the name of love (& Bebe Rexha)",
-      "ID": 132172205673211,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "In the Name of Love (ft. Bebe Rexha)",
-      "ID": 91326514749821,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
   "JAY-Z": [
     {
       "Title": "Holygrail",
@@ -1263,25 +1199,7 @@
       }
     }
   ],
-  "Ciara": [
-    {
-      "Title": "Body Party",
-      "ID": 82618680497964,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
   "Calvin Harris": [
-    {
-      "Title": "This Is What You Came For",
-      "ID": 75503418026069,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
     {
       "Title": "How Deep Is Your Love (Miami Edit)",
       "ID": 95684643199860,
@@ -1328,24 +1246,6 @@
       "Title": "everything i wanted",
       "ID": 133930027531023,
       "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Cash Cash": [
-    {
-      "Title": "All my love (ft. Conor Maynard)",
-      "ID": 136875454177322,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "ALL NIGHT",
-      "ID": 105708586422855,
-      "PlaybackSpeed": 0.4348,
       "VoiceEffects": {
         "PitchShift": 1
       }
@@ -1807,16 +1707,6 @@
       }
     }
   ],
-  "Yeah Yeah Yeahs": [
-    {
-      "Title": "HEADS WILL ROLL",
-      "ID": 138278442880412,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
   "Teriyaki Boyz": [
     {
       "Title": "Tokyo Drift V2",
@@ -1915,614 +1805,6 @@
     {
       "Title": "Dive",
       "ID": 93253268623441,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Coldplay": [
-    {
-      "Title": "A Sky Full of Stars",
-      "ID": 80846913846099,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Hymn for the Weekend",
-      "ID": 83915707822138,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Taylor Swift": [
-    {
-      "Title": "Daylight",
-      "ID": 138358563834069,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Love Story",
-      "ID": 87893797401848,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Cruel Summer",
-      "ID": 78906664941022,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "The Fate of Ophelia",
-      "ID": 129093122086268,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Fortnight (ft. Post Malone)",
-      "ID": 81314428029897,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "August",
-      "ID": 133285257635289,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Shawn Mendes": [
-    {
-      "Title": "Treat You Better",
-      "ID": 71390448941060,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "In My Blood",
-      "ID": 111158068350614,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Treat You Better",
-      "ID": 107853328988865,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "One Direction": [
-    {
-      "Title": "Drag Me Down",
-      "ID": 110266357850654,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Perfect",
-      "ID": 81401202941025,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "One Thing",
-      "ID": 91384864333945,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "18",
-      "ID": 134874921788937,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Camila Cabello": [
-    {
-      "Title": "Never Be the Same",
-      "ID": 80321989987238,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Demi Lovato": [
-    {
-      "Title": "Heart Attack",
-      "ID": 124734814549230,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Cool for the Summer",
-      "ID": 78729186791649,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Heart Attack",
-      "ID": 139604184471307,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Katy Perry": [
-    {
-      "Title": "Unconditionally",
-      "ID": 115430079234569,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "The One That Got Away",
-      "ID": 95803640066419,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Teenage Dream",
-      "ID": 126388895850459,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Part Of Me",
-      "ID": 108382574365435,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Hot N Cold",
-      "ID": 93297236544704,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Bruno Mars": [
-    {
-      "Title": "24K Magic",
-      "ID": 133820037772513,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Marry You",
-      "ID": 91466478891126,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Talking to the Moon",
-      "ID": 104249625477468,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "When I Was Your Man",
-      "ID": 138687997370009,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Talking to the Moon",
-      "ID": 103916619860363,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Grenade (Bachata Remix)",
-      "ID": 110136438051745,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Die with a Smile (ft. Lady Gaga)",
-      "ID": 111955284366245,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Count on Me",
-      "ID": 92479363934494,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Fifth Harmony": [
-    {
-      "Title": "Worth It (ft. Kid Ink)",
-      "ID": 111790501233228,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "5 Seconds of Summer": [
-    {
-      "Title": "Teeth",
-      "ID": 77274776986509,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Adele": [
-    {
-      "Title": "Set Fire to the Rain",
-      "ID": 91850436130793,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Water Under the Bridge",
-      "ID": 139016189210682,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Sia": [
-    {
-      "Title": "Elastic Heart",
-      "ID": 104607661486425,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Lorde": [
-    {
-      "Title": "Team",
-      "ID": 74304091412685,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Selena Gomez": [
-    {
-      "Title": "Love You Like A Love Song",
-      "ID": 131774798260984,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Back To You",
-      "ID": 80889827274926,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Wolves (ft. Marshmello)",
-      "ID": 81571354082256,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Hailee Steinfeld": [
-    {
-      "Title": "Love Myself",
-      "ID": 74668592667261,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "The Chainsmokers": [
-    {
-      "Title": "Takeaway (ft. ILLENIUM & Lennon Stella)",
-      "ID": 121166508186958,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Paris",
-      "ID": 117167395354427,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Meghan Trainor": [
-    {
-      "Title": "NO",
-      "ID": 108671221490165,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Maroon 5": [
-    {
-      "Title": "Payphone (ft. Wiz Khalifa)",
-      "ID": 123172597497978,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "This Love",
-      "ID": 84212175834966,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Miley Cyrus": [
-    {
-      "Title": "Angels Like You",
-      "ID": 75457374701831,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Loren Allred": [
-    {
-      "Title": "Never Enough",
-      "ID": 121802628921825,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "James Arthur": [
-    {
-      "Title": "Train Wreck",
-      "ID": 95772489498392,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Can I Be Him",
-      "ID": 106249854018303,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Lewis Capaldi": [
-    {
-      "Title": "Someone You Loved",
-      "ID": 76161445957380,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Before You Go",
-      "ID": 113238888949779,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Charlie Puth": [
-    {
-      "Title": "Attention",
-      "ID": 101231592344763,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Post Malone": [
-    {
-      "Title": "Circles",
-      "ID": 74177839262912,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Congratulations (Miami Bass)",
-      "ID": 125701264354692,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "OneRepublic": [
-    {
-      "Title": "Secrets",
-      "ID": 113862522612810,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Sam Smith": [
-    {
-      "Title": "Like I Can",
-      "ID": 100261078969526,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Stay With Me",
-      "ID": 100655514565166,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Dancing With A Stranger (ft. Normani)",
-      "ID": 81364983596355,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Imagine Dragons": [
-    {
-      "Title": "Bad Liar",
-      "ID": 70845801017136,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Demons",
-      "ID": 104573138614235,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Enemy (x J.I.D)",
-      "ID": 116801098668835,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Paloma Faith": [
-    {
-      "Title": "Only Love Can Hurt Like This",
-      "ID": 103968061409304,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Clean Bandit": [
-    {
-      "Title": "Rather Be (ft. Jess Glynne)",
-      "ID": 115973582515791,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Rixton": [
-    {
-      "Title": "Me And My Broken Heart",
-      "ID": 94249228049424,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "R. City": [
-    {
-      "Title": "Locked Away (ft. Adam Levine)",
-      "ID": 133946650257541,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "The Script": [
-    {
-      "Title": "The Man Who Can't Be Moved",
-      "ID": 118181955496692,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -3563,30 +2845,10 @@
       }
     }
   ],
-  "DJ Snake": [
-    {
-      "Title": "SG (ft. Ozuna, Megan Thee Stallion & LISA)",
-      "ID": 94419846701614,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
   "Iyaz": [
     {
       "Title": "SOLO (OVIG Remix)",
       "ID": 135869048835060,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Alessandro Viale": [
-    {
-      "Title": "Don't Know Why",
-      "ID": 115594413514260,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
@@ -3627,16 +2889,6 @@
     {
       "Title": "679",
       "ID": 117075348061274,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Zara Larsson": [
-    {
-      "Title": "Ain't My Fault",
-      "ID": 129109153115056,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -3853,84 +3105,6 @@
       }
     }
   ],
-  "Sting": [
-    {
-      "Title": "Englishman in New York",
-      "ID": 76324180414900,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Ryan Leslie": [
-    {
-      "Title": "Irina",
-      "ID": 112457576680677,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Cup of Joe": [
-    {
-      "Title": "Multo",
-      "ID": 100007066015751,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Multo V2",
-      "ID": 103463773741969,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Sabrina Carpenter": [
-    {
-      "Title": "Feather (RnB)",
-      "ID": 97953499042398,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Chris Grey": [
-    {
-      "Title": "ENEMIES",
-      "ID": 115862142729376,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "Olivia Dean": [
-    {
-      "Title": "So Easy",
-      "ID": 93559272175874,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "LANY": [
-    {
-      "Title": "Current Location",
-      "ID": 79870616334257,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
   "Ice Spice": [
     {
       "Title": "Princess Diana (ft. Nicki Minaj & Lil Baby)",
@@ -4102,14 +3276,6 @@
   "YoungBoy NBA": [
     {
       "Title": "Gravity",
-      "ID": 116875470495917,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Gravity",
       "ID": 134192831164852,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -4168,14 +3334,6 @@
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 0.845
-      }
-    },
-    {
-      "Title": "You Dont Even Know Me",
-      "ID": 104954161968503,
-      "PlaybackSpeed": 1,
-      "VoiceEffects": {
-        "PitchShift": 1
       }
     },
     {
@@ -4291,14 +3449,6 @@
       }
     },
     {
-      "Title": "Aku Dah Lupa",
-      "ID": 129594728240831,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Tryna Fuck Me Over",
       "ID": 83951430517792,
       "PlaybackSpeed": 0.435,
@@ -4326,14 +3476,6 @@
       "Title": "HIGH SCHOOL IN JKT",
       "ID": 80392742942599,
       "PlaybackSpeed": 0.4348,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "AMAPIANO",
-      "ID": 83390107725154,
-      "PlaybackSpeed": 1,
       "VoiceEffects": {
         "PitchShift": 1
       }
