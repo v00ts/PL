@@ -195,14 +195,6 @@
       }
     },
     {
-      "Title": "National Treasures",
-      "ID": 99786288498533,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Shabang",
       "ID": 72792093329212,
       "PlaybackSpeed": 0.435,
@@ -584,6 +576,14 @@
       "Title": "Only girl (Bachata Remix)",
       "ID": 127656194442518,
       "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "RUDEBOY (Miami Bass)",
+      "ID": 106398528932961,
+      "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
       }
@@ -1211,15 +1211,7 @@
   ],
   "Billie Eilish": [
     {
-      "Title": "Birds of a Feather",
-      "ID": 100321078987011,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Birds of a Feather",
+      "Title": "Birds of a Feather (Miami Bass)",
       "ID": 136356334537716,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -1253,24 +1245,8 @@
   ],
   "NewJeans": [
     {
-      "Title": "ETA",
-      "ID": 120464356661273,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "OMG",
       "ID": 79809687643237,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "how sweet",
-      "ID": 117319845282339,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -1373,14 +1349,6 @@
     {
       "Title": "One Last Time (Original)",
       "ID": 82446663049822,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Into You",
-      "ID": 82601028078154,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -1577,14 +1545,6 @@
     {
       "Title": "The Real Slim Shady",
       "ID": 119664987099466,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Till I Collapse",
-      "ID": 101070668717634,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -1827,14 +1787,6 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
-    },
-    {
-      "Title": "Ric Flair Drip (ft. Metro Boomin)",
-      "ID": 72893939803977,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
     }
   ],
   "Metro Boomin": [
@@ -1904,14 +1856,6 @@
     }
   ],
   "French Montana": [
-    {
-      "Title": "Ever Since U Left Me (ft. Max B)",
-      "ID": 124251952034070,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
     {
       "Title": "Ever Since U Left Me (ft. Max B)",
       "ID": 113135364981958,
@@ -2293,14 +2237,6 @@
     {
       "Title": "NEW DROP",
       "ID": 79161289378280,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "NEW DROP",
-      "ID": 136138703745673,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -3007,14 +2943,6 @@
   ],
   "50 Cent": [
     {
-      "Title": "Candy Shop",
-      "ID": 110406959572711,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Just a Lil Bit (Baile Funk)",
       "ID": 107806108325291,
       "PlaybackSpeed": 0.435,
@@ -3513,14 +3441,6 @@
       }
     },
     {
-      "Title": "Blow My Buzz",
-      "ID": 98796953424215,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Mangu",
       "ID": 91607669215707,
       "PlaybackSpeed": 0.435,
@@ -3563,14 +3483,6 @@
     {
       "Title": "RA - The Lotus Of Life",
       "ID": 139339982288081,
-      "PlaybackSpeed": 0.435,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "RUDEBOY",
-      "ID": 106398528932961,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -3843,22 +3755,6 @@
         0.435,
         0.417,
         0.435
-      ],
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "NOX 8 - BLB 4",
-      "ID": [
-        99495251081740,
-        99956057545645,
-        95583028323878
-      ],
-      "PlaybackSpeed": [
-        0.435,
-        0.435,
-        0.417
       ],
       "VoiceEffects": {
         "PitchShift": 1
@@ -4210,6 +4106,16 @@
       "Title": "Stick (ft. JID, Kenny Mason, Sheck Wes & J. Cole)",
       "ID": 106928863258617,
       "PlaybackSpeed": 0.37,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+  "D21": [
+    {
+      "Title": "Blow My Buzz",
+      "ID": 98796953424215,
+      "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
       }
