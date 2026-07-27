@@ -1,0 +1,3330 @@
+{
+  "EDM": [
+    {
+      "Title": "Happy Birthday",
+      "ID": 102401574672089,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Malam Kedua",
+      "ID": 85159452846375,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Big Ban",
+      "ID": 72313182241888,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mikasa",
+      "ID": 127554849574559,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mejiku Hibiniu",
+      "ID": 129147346196109,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Garam Madu",
+      "ID": 120082196573229,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Morena",
+      "ID": 100695385998520,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Zombie",
+      "ID": 70765431885672,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "How Do You Do",
+      "ID": 134923663475229,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Believe",
+      "ID": 129785902285035,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Termonli",
+      "ID": 72778751700552,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Voice in My Head",
+      "ID": 131214931521602,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Jump",
+      "ID": 138556346886609,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Here",
+      "ID": 95707380276469,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Fein Fein",
+      "ID": 74406614248430,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Turn It Up",
+      "ID": 128081859596219,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Turn The Light",
+      "ID": 106185657311652,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Soledad",
+      "ID": 76164009443398,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ophelia",
+      "ID": 87302817623477,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Heaven",
+      "ID": 126636002490766,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Drop Pyramid",
+      "ID": 98802625092647,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "An Angel Love",
+      "ID": 138932101390728,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "You Don't Even Know",
+      "ID": 72829717000060,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "The Moon",
+      "ID": 79951715404485,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Syalala lala",
+      "ID": 133104888153538,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bloodline x Where have you been",
+      "ID": 77641369071781,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Nothing Gonna Change My Love",
+      "ID": 117069414884428,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Stay With Me",
+      "ID": 74877894095712,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "SHESHHHHHH",
+      "ID": 73445263840022,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Supernova",
+      "ID": 72842730625996,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "DRIP",
+      "ID": 92724069904610,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tembak Langit",
+      "ID": 137838947661554,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Moonlight Shadow",
+      "ID": 97300666908776,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Calbria",
+      "ID": 110679478617147,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Seven Nation Army",
+      "ID": 108785654238349,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mixrenegade",
+      "ID": 78412255030047,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ripaksani",
+      "ID": 104370976872740,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Remix Party",
+      "ID": 119028696388154,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Yatabtab",
+      "ID": 130244332133225,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Akra Arabic",
+      "ID": 100632112664176,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bass Baku Tumbuk",
+      "ID": 94943423226256,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Drop Popa",
+      "ID": 109931740709040,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Teror Sentak",
+      "ID": 131814391417845,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Shake Body",
+      "ID": 100979018828650,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cinema Bass",
+      "ID": 95780894355425,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Come to com",
+      "ID": 105827957194571,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "SucribD7",
+      "ID": 100146790242948,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Societydrop",
+      "ID": 79713146634404,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "RemixtecnoAria",
+      "ID": 76979474664802,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "God Is a Girl",
+      "ID": 96753406171457,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Kamnh",
+      "ID": 84608708457119,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Rusian Roulette",
+      "ID": 103416586625214,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "WETEEF",
+      "ID": 72420732996023,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Flickshoot",
+      "ID": 85884653965166,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sweet Scar",
+      "ID": 78010544062741,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Catalyst",
+      "ID": 88019087107624,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Desire",
+      "ID": 84017064373944,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Glorious",
+      "ID": 97323216304465,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Runa - (LINII) Линии",
+      "ID": 97286350431371,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Gasolina",
+      "ID": 126171756564117,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Aserehe",
+      "ID": 108162365459544,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Danza Kuduro",
+      "ID": 112796499505836,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Pompingreak",
+      "ID": 92679881262212,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bass Conga",
+      "ID": 90115253669952,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Pompa Bass",
+      "ID": 132945480073438,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Luis - Ft Yankee Despacito",
+      "ID": 117179750418337,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Centil Dust",
+      "ID": 73665536785236,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Till It Hurts - AVC",
+      "ID": 106477303889336,
+      "PlaybackSpeed": 0.25,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Shotgun - AVC",
+      "ID": 136076520317204,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Turn It Up - AVC",
+      "ID": 132798865093519,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "The Night - AVC",
+      "ID": 95424582902947,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Scare to be Lonely - M.Garrix",
+      "ID": 137695467797927,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "In The Name of Love - M.Garrix",
+      "ID": 103194223141759,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "So Far Away - M.Garrix",
+      "ID": 121060130404527,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bad - D-Gueta",
+      "ID": 77163296783399,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tremor",
+      "ID": 131256717338336,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "MANYAO": [
+    {
+      "Title": "Jul When",
+      "ID": 134621302216120,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Nian Yhi",
+      "ID": 137613874564604,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Al Hee",
+      "ID": 84093121501611,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "JVS",
+      "ID": 102072317460238,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Chu Ju When",
+      "ID": 134621302216120,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Endless Love",
+      "ID": 108368866843965,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wu Shi",
+      "ID": 112273929804704,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Nian Yhi",
+      "ID": 106868858530922,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ni De Hai",
+      "ID": 137613874564604,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Huang Hun",
+      "ID": 100157862333824,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tiao Lou Ji",
+      "ID": 83672880253559,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "I Like you so much - Manyao Ver.",
+      "ID": 79898106766287,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Gong Xi Gong Xi",
+      "ID": 113688253480129,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wo de Hao Xiong Di",
+      "ID": 100536749066899,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Zhi Shi Tai Ai Ni",
+      "ID": 72196891688861,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tong Hua",
+      "ID": 137013956788110,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wo Nan Guo - Manyao Ver.",
+      "ID": 102276438874773,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bi Jing Shen Ai Guo",
+      "ID": 78062390710663,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Guo Lu De Wan Feng",
+      "ID": 72220269426682,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Xie Xie Ni De Ai",
+      "ID": 133831525990078,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wo Shi Zhen De Ai Shang Ni",
+      "ID": 93073479010703,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ni Hao Bu Hao",
+      "ID": 78094458790789,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Guo Huo",
+      "ID": 122179415601838,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Yi Xiao Jiang Hu",
+      "ID": 136596696510605,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Esan Esan Bo",
+      "ID": 107733812560349,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wang Le",
+      "ID": 138027824174630,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Zi zi Ju ju",
+      "ID": 98387888689867,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Fei Niao He Chan",
+      "ID": 80644227670403,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bu De Bu Ai",
+      "ID": 99741651534209,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Xiao Xing Yun",
+      "ID": 133145348604154,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cuo Wei Shi Kong",
+      "ID": 121501146672914,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Xiao Ju Wo",
+      "ID": 97202806962550,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wo Hui Deng",
+      "ID": 106485239903433,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Qi Li Xiang",
+      "ID": 102228113588332,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "China Dolls",
+      "ID": 91820653931414,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Jue Bu Neng Shi Qu Ni",
+      "ID": 83523999913410,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ji Shi Ben",
+      "ID": 84147665811445,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wo Men Bu yi Yan",
+      "ID": 86131237778513,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Na Nu Hai Dui Wo Shuo",
+      "ID": 124862801292955,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Haidilao",
+      "ID": 128010164377102,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Zen Me Le",
+      "ID": 92121200271859,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ai Ni",
+      "ID": 118443079890514,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Zai Jian Gong He Guo Lihun",
+      "ID": 81838251775660,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Meiyou Liyou",
+      "ID": 83402709214065,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Yui Ding",
+      "ID": 78046966330391,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "An Jing",
+      "ID": 138739993619037,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Yu Mou",
+      "ID": 111826681874689,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "INDOBOUNCE": [
+    {
+      "Title": "Inho",
+      "ID": 128531820688864,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Lathi",
+      "ID": 99232771016969,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Rampam",
+      "ID": 95585892107074,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Badboy",
+      "ID": 91497550223480,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Symphony",
+      "ID": 91098650624311,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Devolution",
+      "ID": 82970763766413,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sedia Aku",
+      "ID": 124794695415547,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Baby Don't Go",
+      "ID": 98483187168406,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Jika Cinta Dia",
+      "ID": 126719534546726,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mimi Cucu",
+      "ID": 111073572102030,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Garam Cina",
+      "ID": 111742306911378,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Stecu",
+      "ID": 134518104741263,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tabola Bale",
+      "ID": 88188566849191,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cipeli Pam Pam",
+      "ID": 127165026504591,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Crazy Frog",
+      "ID": 103784810477621,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Morena",
+      "ID": 100695385998520,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sincan",
+      "ID": 139466465843540,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Shelter",
+      "ID": 94178033604427,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Jump",
+      "ID": 138556346886609,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Here",
+      "ID": 95707380276469,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "1234",
+      "ID": 74275360727713,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Me To Life Techno",
+      "ID": 74337434484318,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Kick It Hard",
+      "ID": 122252608074879,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Engkol EEEE Aa",
+      "ID": 126636002490766,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Aku Bete Bete Bete",
+      "ID": 132238284939160,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Crazy Frog",
+      "ID": 103784810477621,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Jangan Tunggu Lama-Lama",
+      "ID": 116474383744143,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Lagabomba ",
+      "ID": 104128282962754,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bukan Cinta Biasa",
+      "ID": 116971485545906,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "DJ Rareram",
+      "ID": 127611851250397,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cinta Karna Cinta",
+      "ID": 107311980976037,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tabola Bale- Fellys",
+      "ID": 93073479010703,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "Funkot": [
+    {
+      "Title": "Casablanca",
+      "ID": 110651436773891,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Asmara",
+      "ID": 126392514721567,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Nugoro Angin (Melayang Layang)",
+      "ID": 117396823561359,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Aku Kamu (AKSA)",
+      "ID": 81766981495059,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cinta Istimewa",
+      "ID": 119845814918764,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sesi Potret",
+      "ID": 86142988056407,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Suka Sama Sua (Radja)",
+      "ID": 127297105947096,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Siapa Dihatimu",
+      "ID": 111784408096020,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ngapain Repot-repot",
+      "ID": 131984354235720,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Aku Sayang",
+      "ID": 120017046776182,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Happy Birthday Ver1",
+      "ID": 119311213740672,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Happy Birthday Ver.2",
+      "ID": 128619744954579,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Curi-curi Pandang",
+      "ID": 137405779283776,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Geleng-Geleng",
+      "ID": 80447065031177,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Kicau Mania",
+      "ID": 139692902466190,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tak Sanggup Lagi",
+      "ID": 82510810029044,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Body Pata-Pata",
+      "ID": 131977261097204,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cinta Tak Direstui",
+      "ID": 95998980798396,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Penipu Hati",
+      "ID": 124176177868699,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Basah-basah",
+      "ID": 133480923048677,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "My Heart",
+      "ID": 91824388767576,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cinta Satu Malam",
+      "ID": 76889478170162,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bonek",
+      "ID": 136546288169577,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "AY (D'Bagindas)",
+      "ID": 125491741271065,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Jangan Tunggu Lama-lama",
+      "ID": 120335277131607,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Duka",
+      "ID": 89813175232961,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dalam Setia",
+      "ID": 121522122620430,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dadi Siji",
+      "ID": 104987325277582,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mahalini",
+      "ID": 132601890189236,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sumpah dan Mati",
+      "ID": 90092579705736,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Suci Pudar",
+      "ID": 102975201120669,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Gaun Merah",
+      "ID": 119013994245641,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Atas Nama Cinta",
+      "ID": 86716044310470,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Cinta Terlarang",
+      "ID": 77414358300936,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "CLBK",
+      "ID": 116223576546336,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "1 atau 2",
+      "ID": 75776278951150,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Terbang Bersamaku",
+      "ID": 80321404369082,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Gaun Merah",
+      "ID": 119013994245641,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ngorot Ati",
+      "ID": 108015589209000,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tresno Takkan Mati",
+      "ID": 103688237173606,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sigar",
+      "ID": 93242010462424,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Kalingan Mantan",
+      "ID": 107997524206108,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Orang yang Salah",
+      "ID": 115860089279198,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Garam Madu",
+      "ID": 114033710336297,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mutiara",
+      "ID": 78966662388018,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sekecewa Itu",
+      "ID": 92766515698239,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dukun Palsu",
+      "ID": 81467880781411,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "New Asmara",
+      "ID": 85475787046056,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Berbagai Sepi",
+      "ID": 75438266339683,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Saiyaara",
+      "ID": 88284993974046,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Hendak Cari Pengganti",
+      "ID": 84970773288208,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dimana Hatimu",
+      "ID": 113235945848715,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mengapa Ini Terjadi",
+      "ID": 108536229076703,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Luka Negara",
+      "ID": 112182663323999,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Hakikat Sebuah Cinta",
+      "ID": 133162341495568,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Kenangan Terindah",
+      "ID": 75635073411875,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Salah Apa",
+      "ID": 128045115189840,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Berbeda Kazta",
+      "ID": 72244939900340,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Memori Berkasih",
+      "ID": 96605056289739,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tabola Bale",
+      "ID": 73356681706713,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Emang Dasar",
+      "ID": 116244221140978,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Karena Kamu",
+      "ID": 75946903227476,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Balasan Janji Palsu",
+      "ID": 75105548686146,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Air Mata Persandingan",
+      "ID": 107493367794973,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Purnama Merindu",
+      "ID": 80394948143136,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sembilu Berbisa",
+      "ID": 135651891592641,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Suci Dalam Debu",
+      "ID": 122228459274709,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Terlalu",
+      "ID": 74713559532309,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dua Cincin",
+      "ID": 116421111025440,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Camelia",
+      "ID": 87120030642901,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "CEO Pusing",
+      "ID": 76040247596523,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tor Monitor",
+      "ID": 95510014648194,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Benci Ku Sangka Sayang",
+      "ID": 102591470269918,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Seperti Mati Lampu",
+      "ID": 83572974989920,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "RnB": [
+    {
+      "Title": "Kill Bill",
+      "ID": 101912049167954,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Mean It",
+      "ID": 121486775382523,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dilemma",
+      "ID": 120113403191317,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "One in a Million",
+      "ID": 79609769514646,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Family Affairs",
+      "ID": 88782215411764,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Let Me Blow Ya Mind",
+      "ID": 80301464182551,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Take a bow",
+      "ID": 88133328832104,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Step up 2",
+      "ID": 94026902916282,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Because of You",
+      "ID": 75570279101670,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Rude Boy",
+      "ID": 94352540143755,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Love on Top",
+      "ID": 123865356393266,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Twisted",
+      "ID": 119803140724217,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Die With a Smile",
+      "ID": 94842064666834,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Heartbreak",
+      "ID": 72123921651958,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Price Tag",
+      "ID": 136060608256593,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Smack That",
+      "ID": 94419479499318,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "JB - As Long As You Love Me",
+      "ID": 91963834014834,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "JB - Never Say Never",
+      "ID": 129858702978787,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "F Yo Love Song",
+      "ID": 106031087773808,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "JB - Favorite Girl",
+      "ID": 86482217857119,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "VD - You Got It",
+      "ID": 116953852869313,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "All In",
+      "ID": 76593004667942,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "Other": [
+    {
+      "Title": "Aftershock",
+      "ID": 135286371977753,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Don't Look Back in Anger",
+      "ID": 134490861732258,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Malu Malu",
+      "ID": 98972160685273,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Just Give Me a Reason",
+      "ID": 137133203449238,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Broken Angel",
+      "ID": 133912073726337,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Sialan",
+      "ID": 104236909269494,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "APT",
+      "ID": 136480139167111,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Kutukan Mantan",
+      "ID": 85588207800679,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tell Me Where It Hurts",
+      "ID": 127091664695853,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Weak",
+      "ID": 89443109060577,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "One Time",
+      "ID": 78038185002686,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Rockabye",
+      "ID": 138722229020967,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wo Nan Guo",
+      "ID": 99834130093868,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "As Long As You Love Me",
+      "ID": 89169035974333,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Kasih Aba-Aba",
+      "ID": 123124453762695,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Rude",
+      "ID": 80583786974604,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Tong Hua Li",
+      "ID": 78450358487808,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Calon Mantu Idaman",
+      "ID": 97112832912228,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dulu Memang Cinta",
+      "ID": 88602747904448,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Can't Take My Eyes Off You",
+      "ID": 99323526869008,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Berharap Tak Berpisah",
+      "ID": 86130803546133,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Ngga Dulu",
+      "ID": 107199335525347,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Bad Habbits",
+      "ID": 77809139117137,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "SIRUP - LOOP",
+      "ID": 78993265331730,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "TenxI - Aku Dah Lupa",
+      "ID": 135501310117763,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "TenxI - Mejikuhibiniu",
+      "ID": 112189285566718,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "DC - Say My Name",
+      "ID": 76033677512495,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "My Boo",
+      "ID": 70804179944466,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "KC - Love",
+      "ID": 93635913656225,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Like Strangers Do",
+      "ID": 89885157751087,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Dance Monkey",
+      "ID": 76976884454983,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "PV - L0V3R Boy",
+      "ID": 110665625143119,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "BP - Build a B#",
+      "ID": 119578626788063,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Multo",
+      "ID": 138375837546988,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "MHR - Dracin Backsound",
+      "ID": 74790401468572,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Wengo-Wengo",
+      "ID": 127016038370244,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Lany - Mixtape",
+      "ID": 123686464261517,
+      "PlaybackSpeed": 0.3,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "Brazillian": [
+    {
+      "Title": "Theros Club Brazillian 1",
+      "ID": 80121906793966,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 2",
+      "ID": 70911461094761,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 3",
+      "ID": 117147045801477,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 4",
+      "ID": 137955078129447,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 5",
+      "ID": 134520365815163,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 6",
+      "ID": 82286574501829,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 7",
+      "ID": 123042356917855,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 8",
+      "ID": 139639545835179,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 9",
+      "ID": 90743862033619,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 10",
+      "ID": 140585454137059,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 11",
+      "ID": 138207964148286,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 12",
+      "ID": 97476023684577,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 13",
+      "ID": 93441931214976,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 14",
+      "ID": 112872594628073,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 15",
+      "ID": 126283240951768,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 16",
+      "ID": 122861413579958,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 17",
+      "ID": 100479344151901,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Brazillian 18",
+      "ID": 75840835082790,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "Baile Funk": [
+    {
+      "Title": "Theros Club Baile Funk 1",
+      "ID": 99936958441247,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 2",
+      "ID": 75926034833216,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 3",
+      "ID": 128184015159938,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 4",
+      "ID": 101251183144368,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 5",
+      "ID": 136426020995597,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 6",
+      "ID": 85156959077681,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 7",
+      "ID": 72695486031942,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 8",
+      "ID": 88894756297992,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 9",
+      "ID": 91950504661013,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 10",
+      "ID": 89791877249295,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 11",
+      "ID": 136648830247189,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 12",
+      "ID": 139447580458455,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 13",
+      "ID": 131194144748534,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 14",
+      "ID": 128127716751294,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 15",
+      "ID": 79407023624990,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 16",
+      "ID": 130292646642733,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 17",
+      "ID": 86280579433190,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 18",
+      "ID": 100467358125208,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 19",
+      "ID": 86178753543088,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 20",
+      "ID": 108678437039833,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 21",
+      "ID": 70384834364047,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 22",
+      "ID": 135207837140311,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 23",
+      "ID": 135146602487037,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 24",
+      "ID": 126109848082761,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 25",
+      "ID": 126168933747116,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 26",
+      "ID": 87822841144028,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 27",
+      "ID": 109296215803683,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Baile Funk 28",
+      "ID": 77570461100970,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "RnB Cyber": [
+    {
+      "Title": "Theros Club RnB 1",
+      "ID": 75283571567820,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 2",
+      "ID": 118635963285117,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 3",
+      "ID": 134377187935325,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 4",
+      "ID": 122926438590674,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 5",
+      "ID": 109730170893551,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 6",
+      "ID": 76953739463260,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 7",
+      "ID": 113991938597459,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 8",
+      "ID": 130559877884469,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 9",
+      "ID": 72025891066283,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 10",
+      "ID": 76232040572074,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 11",
+      "ID": 75970834086370,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 12",
+      "ID": 74794784588083,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 13",
+      "ID": 120132271178563,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 14",
+      "ID": 133577241742232,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 15",
+      "ID": 118108303697586,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 16",
+      "ID": 139852553763115,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 17",
+      "ID": 128575716329088,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 18",
+      "ID": 105527209334857,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 19",
+      "ID": 73886902576998,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 20",
+      "ID": 102125138850261,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 21",
+      "ID": 138891190549209,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 22",
+      "ID": 130550250986323,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 23",
+      "ID": 102965194800981,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 24",
+      "ID": 70464133194206,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 25",
+      "ID": 78766030858099,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 26",
+      "ID": 137858750441229,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 27",
+      "ID": 124004374704476,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 28",
+      "ID": 81484225407375,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 29",
+      "ID": 73329968769513,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 30",
+      "ID": 113438655778829,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club RnB 31",
+      "ID": 140167575983549,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "Hip-Hop": [
+    {
+      "Title": "A$AP R0cky - Praise D'L",
+      "ID": 111035309392452,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "C Cee - DOJA",
+      "ID": 71717333691340,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 1",
+      "ID": 73270695290831,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 2",
+      "ID": 91665910724319,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 3",
+      "ID": 133435555576873,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 4",
+      "ID": 131229315290723,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 5",
+      "ID": 132065766607432,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 7",
+      "ID": 135701955243128,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 9",
+      "ID": 126983236379088,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 10",
+      "ID": 87472170999805,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 11",
+      "ID": 71433294794692,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 12",
+      "ID": 139517100835983,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 13",
+      "ID": 107558688913334,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 14",
+      "ID": 119073090765779,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 15",
+      "ID": 98249753361739,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hip-Hop 16",
+      "ID": 82091113302711,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "Hipdut": [
+    {
+      "Title": "Theros Club Hipdut 1",
+      "ID": 79251151683432,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 2",
+      "ID": 139180942222948,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 3",
+      "ID": 139097264742875,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 4",
+      "ID": 111077913911648,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 5",
+      "ID": 121988612233969,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 6",
+      "ID": 132103746473138,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 7",
+      "ID": 80701311761247,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 8",
+      "ID": 89385329892189,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 9",
+      "ID": 92535101426012,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 10",
+      "ID": 102646860231465,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Hipdut 11",
+      "ID": 77826932191729,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ],
+  "Amapiano": [
+    {
+      "Title": "Theros Club Amapiano 1",
+      "ID": 93146319942454,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 2",
+      "ID": 112919626341071,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 3",
+      "ID": 133164583279592,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 4",
+      "ID": 84239340182335,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 5",
+      "ID": 108695658922735,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 6",
+      "ID": 96084074229455,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 7",
+      "ID": 129005915241101,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 8",
+      "ID": 121266393263092,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 9",
+      "ID": 138791355966920,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 10",
+      "ID": 96975904857683,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 11",
+      "ID": 123917782902078,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 12",
+      "ID": 138020503777685,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 13",
+      "ID": 119473131103775,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 14",
+      "ID": 127618716894961,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 15",
+      "ID": 124638290522925,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 16",
+      "ID": 127869707823194,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 17",
+      "ID": 112482795875243,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 18",
+      "ID": 102056702389376,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 19",
+      "ID": 119027349242162,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 20",
+      "ID": 92616997246089,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    },
+    {
+      "Title": "Theros Club Amapiano 21",
+      "ID": 86968496184248,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1.0
+      }
+    }
+  ]
+}
