@@ -1,1 +1,302 @@
-
+  "Ed Sheeran": [
+    {
+      "Title": "Galway Girl",
+      "ID": 115183160410362,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Beautiful People (ft. Khalid)",
+      "ID": 89003842524855,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Dive",
+      "ID": 93253268623441,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+    "BLACKPINK": [
+    {
+      "Title": "JUMP",
+      "ID": 106279272269697,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "JUMP (V2 Full Bass)",
+      "ID": 103042768395431,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "BlackPink Venom X Eminem - Lose Yourself",
+      "ID": 137639926862816,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+    "Lady Gaga": [
+    {
+      "Title": "Just Dance",
+      "ID": 110702436966875,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Just Dance (ft. Colby O'Donis)",
+      "ID": 88529074776796,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+   "SZA": [
+    {
+      "Title": "Love Galore",
+      "ID": 110099959033787,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "DRIVE",
+      "ID": 78191169275035,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Kill Bill",
+      "ID": 89795317475927,
+      "PlaybackSpeed": 0.4348,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "The Weekend (x Calvin Harris)",
+      "ID": 131563477655946,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Broken Clocks",
+      "ID": 77423122637483,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "SNOOZE (YO-ZU EDIT)",
+      "ID": 78365882342353,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+    "Justin Bieber": [
+    {
+      "Title": "Somebody to Love (ft. Usher)",
+      "ID": 99705318872106,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Beauty and the Beat",
+      "ID": 124272713525275,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Ghost",
+      "ID": 113000226806017,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "As Long as You Love Me (Bachata Remix)",
+      "ID": 93080701162923,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "That Should Be Me",
+      "ID": 115516882522626,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Beauty & The Beat",
+      "ID": 72651768678962,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Peaches (ft. Daniel Caesar)",
+      "ID": 108697855407421,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Company",
+      "ID": 119047533702540,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Boyfriend",
+      "ID": 110261321134408,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Baby (ft. Ludacris)",
+      "ID": 139911675582687,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "As Long As You Love Me",
+      "ID": 128939212618389,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Don't Let Me vs. Intentions",
+      "ID": 95064880330318,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Intentions (ft. Quavo)",
+      "ID": 114048515059818,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+    "Black Eyed Peas": [
+    {
+      "Title": "Rock Ya Body",
+      "ID": 98608920312891,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+    "Rihanna": [
+    {
+      "Title": "Pour it up",
+      "ID": 101405664850745,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Breaking Dishes",
+      "ID": 75123696531772,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Kiss It Better",
+      "ID": 93170312258827,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Only Girl (In The World)",
+      "ID": 116188466771074,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "S&M (Bachata Remix)",
+      "ID": 134723300538214,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Only girl (Bachata Remix)",
+      "ID": 127656194442518,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "RUDEBOY (Miami Bass)",
+      "ID": 106398528932961,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Wild Thoughts",
+      "ID": 122249792099818,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
