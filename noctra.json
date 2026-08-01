@@ -1,1 +1,72 @@
-
+{
+  "BKB": [
+    {
+      "Title": "WOMAN (Miami Bass)",
+      "ID": 129428723110881,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "NISSAN ALTIMA (Miami Bass)",
+      "ID": 81281773912008,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+  "RnB": [
+    {
+      "Title": "Forgot About Dre",
+      "ID": 101716988204850,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Still D.R.E. (ft. Snoop Dogg)",
+      "ID": 78201645855239,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "The Next Episode",
+      "ID": 125718259145423,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+  "HipHop": [
+    {
+      "Title": "We Dem Boyz",
+      "ID": 74896049300175,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "You And Your Friends",
+      "ID": 117413877491926,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Black and Yellow",
+      "ID": 74174890548125,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ]
+}
