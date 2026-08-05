@@ -301,4 +301,174 @@
       }
     }
   ]
+  "Amapiano": [
+    {
+      "Title": "Amapiano Orang Tua - 1",
+      "ID": 93146319942454,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 2",
+      "ID": 112919626341071,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 3",
+      "ID": 133164583279592,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 4",
+      "ID": 84239340182335,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 5",
+      "ID": 108695658922735,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 6",
+      "ID": 96084074229455,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 7",
+      "ID": 129005915241101,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 8",
+      "ID": 121266393263092,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 9",
+      "ID": 138791355966920,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 10",
+      "ID": 96975904857683,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 11",
+      "ID": 123917782902078,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 12",
+      "ID": 138020503777685,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 13",
+      "ID": 119473131103775,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 14",
+      "ID": 127618716894961,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 15",
+      "ID": 124638290522925,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 16",
+      "ID": 127869707823194,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 17",
+      "ID": 112482795875243,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 18",
+      "ID": 102056702389376,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 19",
+      "ID": 119027349242162,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 20",
+      "ID": 92616997246089,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "Amapiano Orang Tua - 21",
+      "ID": 86968496184248,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ]
 }
