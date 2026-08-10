@@ -3326,5 +3326,551 @@
         "PitchShift": 1.0
       }
     }
-  ]
+  ],
+"KPOP": [
+    {
+        "Title": "EXO - Tempo",
+        "ID": 132538328534650,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "EXO - Kokobop",
+        "ID": 106161456677319,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "EXO - Power",
+        "ID": 132597247756033,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "EXO - Lotto",
+        "ID": 74016680124194,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "EXO - Monster",
+        "ID": 119866410512394,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "EXO - Overdose",
+        "ID": 106711798736561,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "NAEYEON (TWICE) - Pop",
+        "ID": 115443154202579,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TWICE - What Is Love",
+        "ID": 126224634502570,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TWICE - I Can't Stop Me",
+        "ID": 140300108169390,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TWICE - Heart Shaker",
+        "ID": 78366308852120,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "AOA - Miniskirt",
+        "ID": 132682800995274,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "2NE1 - I'm The Best",
+        "ID": 82363757254611,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "AESPA - Black Mamba",
+        "ID": 114037619270473,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "AESPA - Whiplash",
+        "ID": 114037619270473,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "KATSEYE - Gabriella",
+        "ID": 72883823626974,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SUPER JUNIOR - Mr.Simple",
+        "ID": 73515454305735,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SUPER JUNIOR - Bonamana",
+        "ID": 108149376836867,
+        "PlaybackSpeed": 0.4,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ATEEZ - Bad",
+        "ID": 126603312892694,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BIG BANG - Fantastic Baby",
+        "ID": 79237135804973,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TAEYANG - Wedding Dress",
+        "ID": 80782840597482,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ICON - Love Scenario",
+        "ID": 120256001074083,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SEVENTEEN - Clap",
+        "ID": 90029728577845,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SEVENTEEN - Super",
+        "ID": 71887249356550,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SEVENTEEN - Don't Wanna Cry",
+        "ID": 103558527715936,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BLACKPINK - Love Sick Girl",
+        "ID": 132803273664941,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BLACKPINK - Boombayah",
+        "ID": 76782379620726,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BLACKPINK - Ddu Ddu Ddu",
+        "ID": 88434265427956,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BLACKPINK - Jump",
+        "ID": 126549500179169,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SNSD - The Boys",
+        "ID": 113553564182122,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "LE SSERAFIM - Fearless",
+        "ID": 138807878891331,
+        "PlaybackSpeed": 0.7,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "LE SSERAFIM - Antifragle",
+        "ID": 82992082669346,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "LE SSERAFIM - Smart",
+        "ID": 109209502580467,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BABYMONSTER - Sheesh",
+        "ID": 124087446816567,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "HEART2HEART - Style",
+        "ID": 111123172375459,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "HEART2HEART - Rude",
+        "ID": 106985966892829,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "RED VELVET - Russian Roulate",
+        "ID": 135482317705307,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "RED VELVET - Peek A Boo",
+        "ID": 83562111836723,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "RED VELVET - Psycho",
+        "ID": 124028053751539,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "NEWJEANS - OMG",
+        "ID": 124065110397812,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "NEWJEANS - Attention",
+        "ID": 135696680837112,
+        "PlaybackSpeed": 0.7,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "NEWJEANS - Super Shy",
+        "ID": 78871471043434,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "NEWJEANS - Hype Boy",
+        "ID": 134906180089732,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "NEWJEANS - Ditto",
+        "ID": 107871101962852,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "GFRIEND - Me Gustas Tu",
+        "ID": 106032559242858,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "GFRIEND - Rough",
+        "ID": 137483090743511,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "GFRIEND - TFTMN",
+        "ID": 128869356463270,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TWS - Overdrive",
+        "ID": 135655604442758,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BTS - Dynamite",
+        "ID": 123241873997168,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TREASURE - Darari",
+        "ID": 133991562735459,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TREASURE - I Love You",
+        "ID": 89746515827778,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "TREASURE - MMM",
+        "ID": 107753869131086,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "STRAY KIDS - Ceremony",
+        "ID": 127884402374018,
+        "PlaybackSpeed": 0.8,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "STRAY KIDS - Maniac",
+        "ID": 104246822891374,
+        "PlaybackSpeed": 0.8,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BTS - Blood Sweet And Tears",
+        "ID": 131374950396051,
+        "PlaybackSpeed": 0.4,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BTS - Run",
+        "ID": 113743665517375,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BTS - Fake Love",
+        "ID": 81383472331688,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BTS - Idol",
+        "ID": 117829256809386,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BTS - Save Me",
+        "ID": 136873114920356,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BTS - Boy In Luv",
+        "ID": 98057217283328,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "IKON - Rythm Ta",
+        "ID": 87963609510351,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "IKON - Goodbye Road",
+        "ID": 128137027842911,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "IKON - Why Why Why",
+        "ID": 136461431127813,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ENHYPHEN - Knife",
+        "ID": 71192369000933,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ENHYPHEN - Bite Me",
+        "ID": 136047970915369,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ENHYPHEN - Shout Out",
+        "ID": 103984125419676,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ENHYPHEN - Bad Desire",
+        "ID": 87219933857812,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ENHYPHEN - Drunk Dazed",
+        "ID": 99884756480843,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ENHYPHEN - Fever",
+        "ID": 83750019317870,
+        "PlaybackSpeed": 0.5,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+]
 }
