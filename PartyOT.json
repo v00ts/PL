@@ -1,7 +1,7 @@
 {
-  "Ed Sheeran": [
+  "SPOTIFY": [
     {
-      "Title": "Galway Girl",
+      "Title": "Ed Sheeran - Galway Girl",
       "ID": 115183160410362,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -9,7 +9,7 @@
       }
     },
     {
-      "Title": "Beautiful People (ft. Khalid)",
+      "Title": "Ed Sheeran - Beautiful People (ft. Khalid)",
       "ID": 89003842524855,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -17,17 +17,15 @@
       }
     },
     {
-      "Title": "Dive",
+      "Title": "Ed Sheeran - Dive",
       "ID": 93253268623441,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
       }
-    }
-  ],
-  "BLACKPINK": [
+    },
     {
-      "Title": "JUMP",
+      "Title": "Blackpink - JUMP",
       "ID": 106279272269697,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -35,7 +33,7 @@
       }
     },
     {
-      "Title": "JUMP (V2 Full Bass)",
+      "Title": "Blackpink - JUMP (V2 Full Bass)",
       "ID": 103042768395431,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -49,11 +47,9 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
-    }
-  ],
-  "Lady Gaga": [
+    },
     {
-      "Title": "Just Dance",
+      "Title": "Lady Gaga - Just Dance",
       "ID": 110702436966875,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -61,17 +57,15 @@
       }
     },
     {
-      "Title": "Just Dance (ft. Colby O'Donis)",
+      "Title": "Lady Gaga - Just Dance (ft. Colby O'Donis)",
       "ID": 88529074776796,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
       }
-    }
-  ],
-  "SZA": [
+    },
     {
-      "Title": "Love Galore",
+      "Title": "SZA - Love Galore",
       "ID": 110099959033787,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -79,7 +73,7 @@
       }
     },
     {
-      "Title": "DRIVE",
+      "Title": "SZA - DRIVE",
       "ID": 78191169275035,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -87,7 +81,7 @@
       }
     },
     {
-      "Title": "Kill Bill",
+      "Title": "SZA - Kill Bill",
       "ID": 89795317475927,
       "PlaybackSpeed": 0.4348,
       "VoiceEffects": {
@@ -95,15 +89,7 @@
       }
     },
     {
-      "Title": "The Weekend (x Calvin Harris)",
-      "ID": 131563477655946,
-      "PlaybackSpeed": 0.4,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Broken Clocks",
+      "Title": "SZA - Broken Clocks",
       "ID": 77423122637483,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -111,17 +97,15 @@
       }
     },
     {
-      "Title": "SNOOZE (YO-ZU EDIT)",
+      "Title": "SZA - SNOOZE (YO-ZU EDIT)",
       "ID": 78365882342353,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
       }
-    }
-  ],
-  "Justin Bieber": [
+    },
     {
-      "Title": "Somebody to Love (ft. Usher)",
+      "Title": "Justin Bieber - Somebody to Love (ft. Usher)",
       "ID": 99705318872106,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -129,7 +113,7 @@
       }
     },
     {
-      "Title": "Beauty and the Beat",
+      "Title": "Justin Bieber - Beauty and the Beat",
       "ID": 124272713525275,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -137,7 +121,7 @@
       }
     },
     {
-      "Title": "Ghost",
+      "Title": "Justin Bieber - Ghost",
       "ID": 113000226806017,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -145,7 +129,7 @@
       }
     },
     {
-      "Title": "As Long as You Love Me (Bachata Remix)",
+      "Title": "Justin Bieber - As Long as You Love Me (Bachata Remix)",
       "ID": 93080701162923,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -153,7 +137,7 @@
       }
     },
     {
-      "Title": "That Should Be Me",
+      "Title": "Justin Bieber - That Should Be Me",
       "ID": 115516882522626,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -161,7 +145,7 @@
       }
     },
     {
-      "Title": "Beauty & The Beat",
+      "Title": "Justin Bieber - Beauty & The Beat",
       "ID": 72651768678962,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -169,7 +153,7 @@
       }
     },
     {
-      "Title": "Peaches (ft. Daniel Caesar)",
+      "Title": "Justin Bieber - Peaches (ft. Daniel Caesar)",
       "ID": 108697855407421,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -177,7 +161,7 @@
       }
     },
     {
-      "Title": "Company",
+      "Title": "Justin Bieber - Company",
       "ID": 119047533702540,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -185,7 +169,7 @@
       }
     },
     {
-      "Title": "Boyfriend",
+      "Title": "Justin Bieber - Boyfriend",
       "ID": 110261321134408,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -193,7 +177,7 @@
       }
     },
     {
-      "Title": "Baby (ft. Ludacris)",
+      "Title": "Justin Bieber - Baby (ft. Ludacris)",
       "ID": 139911675582687,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -201,7 +185,7 @@
       }
     },
     {
-      "Title": "As Long As You Love Me",
+      "Title": "Justin Bieber - As Long As You Love Me",
       "ID": 128939212618389,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -209,7 +193,7 @@
       }
     },
     {
-      "Title": "Don't Let Me vs. Intentions",
+      "Title": "Justin Bieber - Don't Let Me vs. Intentions",
       "ID": 95064880330318,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -217,27 +201,23 @@
       }
     },
     {
-      "Title": "Intentions (ft. Quavo)",
+      "Title": "Justin Bieber - Intentions (ft. Quavo)",
       "ID": 114048515059818,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
       }
-    }
-  ],
-  "Black Eyed Peas": [
+    },
     {
-      "Title": "Rock Ya Body",
+      "Title": "Black Eyed Peas - Rock Ya Body",
       "ID": 98608920312891,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
       }
-    }
-  ],
-  "Rihanna": [
+    },
     {
-      "Title": "Pour it up",
+      "Title": "Rihanna - Pour it up",
       "ID": 101405664850745,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -245,7 +225,7 @@
       }
     },
     {
-      "Title": "Breaking Dishes",
+      "Title": "Rihanna - Breaking Dishes",
       "ID": 75123696531772,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -253,7 +233,7 @@
       }
     },
     {
-      "Title": "Kiss It Better",
+      "Title": "Rihanna - Kiss It Better",
       "ID": 93170312258827,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -261,7 +241,7 @@
       }
     },
     {
-      "Title": "Only Girl (In The World)",
+      "Title": "Rihanna - Only Girl (In The World)",
       "ID": 116188466771074,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -269,7 +249,7 @@
       }
     },
     {
-      "Title": "S&M (Bachata Remix)",
+      "Title": "Rihanna - S&M (Bachata Remix)",
       "ID": 134723300538214,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -277,7 +257,7 @@
       }
     },
     {
-      "Title": "Only girl (Bachata Remix)",
+      "Title": "Rihanna - Only girl (Bachata Remix)",
       "ID": 127656194442518,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
@@ -285,7 +265,7 @@
       }
     },
     {
-      "Title": "RUDEBOY (Miami Bass)",
+      "Title": "Rihanna - RUDEBOY (Miami Bass)",
       "ID": 106398528932961,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
@@ -293,13 +273,2341 @@
       }
     },
     {
-      "Title": "Wild Thoughts",
+      "Title": "Rihanna - Wild Thoughts",
       "ID": 122249792099818,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
       }
-    }
+    },
+	    {
+        "Title": "NSYNC - Bye Bye Bye",
+        "ID": 108472327940284,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ace of Base - Happy Nation",
+        "ID": 122505029957053,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Adele - Skyfall",
+        "ID": 111168968194756,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Adele - Someone Like You",
+        "ID": 108161380460712,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Adele - Easy On Me",
+        "ID": 112538729167081,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Akon - Be With You",
+        "ID": 132856792060797,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Akon - Right Now (Na Na Na)",
+        "ID": 105282211476135,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker - Spectre",
+        "ID": 120991318073924,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker, Ava Max - Alone, Pt. II",
+        "ID": 123708041451856,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker, Emma Steinbakken - Not You",
+        "ID": 133370000640391,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker, Julie Bergan, K-391, SEUNGRI - Ignite",
+        "ID": 116133633502959,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker, Sabrina Carpenter & Farruko - On My Way",
+        "ID": 127359511403021,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker, K-391, Emelie Hollow - Lily",
+        "ID": 92757433711375,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker, Noah Cyrus, Digital Farm Animals, Juliander - All Falls Down",
+        "ID": 81035284250127,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alan Walker, Sorana - Lost Control",
+        "ID": 116545359602339,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Alex & Sierra - Little Do You Know",
+        "ID": 90124640677650,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ali Gatie - It's You",
+        "ID": 120608249678967,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Antonia, Erik Frank - Mátame",
+        "ID": 85568459818739,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - kiss me",
+        "ID": 117130916835789,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - petal",
+        "ID": 107706024951844,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - hate that i made you love me",
+        "ID": 89142028369130,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - big feelings",
+        "ID": 110047276156100,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - the boy is mine",
+        "ID": 74890880273542,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - successful",
+        "ID": 140069224789610,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - R.E.M",
+        "ID": 135022885772891,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Touch It",
+        "ID": 83690510471976,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Greedy",
+        "ID": 134595243532835,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - everytime",
+        "ID": 138055104230455,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - thank u, next",
+        "ID": "GAGAL",
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Into You",
+        "ID": 84028311702478,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - intro (end of the world)",
+        "ID": 80053486245584,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - bye",
+        "ID": 102693797088146,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Tattooed Heart",
+        "ID": 128424444154562,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - NASA",
+        "ID": 130114716805908,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - bloodline",
+        "ID": 122891658932136,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Moonlight",
+        "ID": 118185874560090,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - imagine",
+        "ID": 129784767703687,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - One Last Time",
+        "ID": 137005793216361,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - sweetener",
+        "ID": 79383406442129,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - we can't be friends",
+        "ID": 108216794752083,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - yes, and?",
+        "ID": 101543284162176,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Dangerous Woman",
+        "ID": 111338809741873,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - pov",
+        "ID": 111709496866839,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - break up with your girlfriend, i'm bored",
+        "ID": 102406980804284,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Greedy",
+        "ID": 75256516802406,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - Focus",
+        "ID": 101040375106137,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - no tears left to cry",
+        "ID": 91658921821616,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - God is a woman",
+        "ID": 107767285215203,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - thank u, next",
+        "ID": "GAGAL",
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - 34+35",
+        "ID": 93901690762830,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - 7 rings",
+        "ID": 103194419181964,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande - positions",
+        "ID": 119223416292464,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, Doja Cat - motive",
+        "ID": 100107280255259,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, Justin Bieber - Stuck with U",
+        "ID": 135408017472355,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, Lil Wayne - Let Me Love You",
+        "ID": 134596461250658,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, Mac Miller - The Way",
+        "ID": 117230961510234,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, Miley Cyrus, Lana Del Rey - Don’t Call Me Angel",
+        "ID": 110123917334787,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, Nicki Mina - Side To Side",
+        "ID": 131493074561118,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, Social House - boyfriend",
+        "ID": 134912907570186,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ariana Grande, The Weeknd - Love Me Harder",
+        "ID": 119960606487713,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ava Max - So Am I",
+        "ID": 111949201360088,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ava Max - Sweet but Psycho",
+        "ID": 97125105297370,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ava Max - Kings & Queens",
+        "ID": 75458273463145,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ava Max - My Head & My Heart",
+        "ID": 99722497479541,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ava Max - Not Your Barbie Girl",
+        "ID": 111899867826178,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Smile",
+        "ID": 138244593274236,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - My Happy Ending",
+        "ID": 105108005386240,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - I Love You",
+        "ID": 108125820176281,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Sk8er Boi",
+        "ID": 106427794214425,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Slipped Away",
+        "ID": 84649360100439,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Stop Standing There",
+        "ID": 97126622944858,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - When You're Gone",
+        "ID": 82524692685990,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - It Was In Me",
+        "ID": 111546616421849,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - I'm with You",
+        "ID": 81477130493757,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - 4 Real",
+        "ID": 73737469765957,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Complicated",
+        "ID": 98847295228214,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Girlfriend",
+        "ID": 86515326609791,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Anything but Ordinary",
+        "ID": 109729513617122,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - He Wasn't",
+        "ID": 111854205193225,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Losing Grip",
+        "ID": 105485321758822,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Nobody's Home",
+        "ID": 85053464055803,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - What the Hell",
+        "ID": 126989560192885,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - How Does It Feel",
+        "ID": 107930466570782,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne - Alice - Extended Version",
+        "ID": 118850104120615,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Avril Lavigne, Chad Kroeger - Let Me Go",
+        "ID": 126565460029106,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Backstreet Boys - Shape of My Heart",
+        "ID": 100969781038618,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Becky G - Shower",
+        "ID": 70446168436389,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Benson Boone - Beautiful Things",
+        "ID": 94868478677130,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Benson Boone - In The Stars",
+        "ID": 95945831957106,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Benson Boone - Ghost Town",
+        "ID": 122206797300497,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BIG PnB, bommelg - Unforgettable",
+        "ID": 123453134342053,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - Birds Of A Feather",
+        "ID": 121051962273475,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - What Was I Made For?",
+        "ID": 125440708870536,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - Chihiro",
+        "ID": 96492708116710,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - When The Party'S Over",
+        "ID": 108097235939037,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - Happier Than Ever",
+        "ID": 102742363836087,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - Ocean Eyes",
+        "ID": 73132702606389,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - When The Party'S Over",
+        "ID": 108097235939037,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilis - Wildflower",
+        "ID": 123535636136178,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Billie Eilish, Khalid - Lovely",
+        "ID": 82040397680503,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "BØRNAGAIN, nevernotnonie - Nowhere To Be",
+        "ID": 77283416757091,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - Marry You",
+        "ID": 131917870863077,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - Our First Time",
+        "ID": 133025168772831,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - Just the Way You Are",
+        "ID": 99055120547643,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - Grenade",
+        "ID": 132086241112605,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - That's What I Like",
+        "ID": 125697544872780,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - Locked out of Heaven",
+        "ID": 100752339070945,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - Risk It Al",
+        "ID": 96142759345916,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - The Lazy Song",
+        "ID": 133162314207546,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars - It Will Rain",
+        "ID": 117174687094961,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Bruno Mars, B.o.B, CeeLo Green - The Other Side",
+        "ID": 135628923605715,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Cafuné - Tek It",
+        "ID": 115343750601275,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "CapzLock - Has To Be",
+        "ID": 122064759994211,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth - Attention",
+        "ID": 112735925456359,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth - How Long",
+        "ID": 86232336270847,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth - Cheating On You",
+        "ID": 78761784041641,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth - Light Switch",
+        "ID": 114144656648138,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth - Dangerously",
+        "ID": 140539929640326,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth - One Call Away",
+        "ID": 123864663740194,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth, Jung Kook, Bts - Left And Right",
+        "ID": 125351325326955,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth, Meghan Trainor - Marvin Gaye",
+        "ID": 94838882859220,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Charlie Puth, Selena Gomez - We Don'T Talk Anymore",
+        "ID": 96871629881230,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Chase Atlantic - The Walls",
+        "ID": 110241644379848,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Chase Atlantic, GOON DES GARCONS - Consume",
+        "ID": 132281814670216,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Chord Overstreet - Hold On",
+        "ID": 95009681407746,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "CKay - love nwantit",
+        "ID": 72519070612276,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Clinton Kane - I Guess I'M In Love",
+        "ID": 111250544967702,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Coldplay - Fix You",
+        "ID": 80181066571382,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Craig David - Insomnia",
+        "ID": 138815823610868,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Deeps - Still In Love With You",
+        "ID": 132726413893414,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Demi Lovato - Give Your Heart a Break",
+        "ID": 93265179032720,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Disco Lines, Tinashe - No Broke Boys",
+        "ID": 92467941359477,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Doechi - Anxiety",
+        "ID": 115818292895197,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Dua Lipa - New Rules",
+        "ID": 96023148449963,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ed Sheeran - Thinking out Loud",
+        "ID": 82399978167317,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Enrique Iglesias, Descemer Bueno, Gente De Zona - Bailando",
+        "ID": 113981061370774,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Etham - 12:45 - Stripped",
+        "ID": 73513578004382,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Fajar Sadboy, Widia Kalana - Wenggo-wenggo",
+        "ID": 92633025811695,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Felix Averian, KA!YA - About Your Love",
+        "ID": 139758370131708,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Fifth Harmony, Kid Ink - Worth It",
+        "ID": 90721537474248,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Forest Blakk - If You Love Her",
+        "ID": 120667056517598,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Forest Blakk - Fall Into Me",
+        "ID": 71456622308825,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "G-DRAGON, TAEYANG, DAESUNG - HOME SWEET HOME",
+        "ID": 94773708388275,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "G-Eazy, Kehlani - Good Life",
+        "ID": 124896286156461,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Glass Animals - Heat Waves",
+        "ID": 92747505788879,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Guy Sebastian, Lupe Fiasco - Battle Scars",
+        "ID": 82263855969605,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Harry Styles - Falling",
+        "ID": 101181654359918,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Henry Moodie - Drunk Text",
+        "ID": 139474681538137,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Henry Moodie - Closure",
+        "ID": 107450140118418,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "HUGEL, SOLTO (FR - Jamaican (Bam Bam)",
+        "ID": 99767414113166,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jake Clark - Deserve",
+        "ID": 105164311665835,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Mille - Nothing To Miss",
+        "ID": 101872337646385,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Mille - No Matter What",
+        "ID": 104667542403680,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Mille - Over You",
+        "ID": 122391581501480,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Mille - City That Never Sleeps",
+        "ID": 133897122406487,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Here'S Your Perfect",
+        "ID": 126310416457726,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Maybe Next Time",
+        "ID": 94789688726959,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - I Lost Myself In Loving You",
+        "ID": 109124646072870,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Empty Room",
+        "ID": 137803093996799,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Longer",
+        "ID": 140638721583032,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - In The Cards",
+        "ID": 119816679863464,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Wishes",
+        "ID": 114387618506100,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Hold You 'Til We’Re Old",
+        "ID": 107465753700354,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Rooting For You",
+        "ID": 133701872466660,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Last Call",
+        "ID": 115067263832913,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - It Is What It Is",
+        "ID": 89354693402636,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Only Place",
+        "ID": 136372490342579,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Untie The Knot",
+        "ID": 70730010498278,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller - Best Seat In The House",
+        "ID": 101333404474654,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jamie Miller, Tori Kelly - Every Lifetime",
+        "ID": 75723080535352,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jeremy Zucker, Chelsea Cutler - You Were Good To Me",
+        "ID": 92236651607528,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jessie J, Ariana Grande, Nicki Minaj - Bang Bang",
+        "ID": 73540426226563,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Joji - Glimpse of Us",
+        "ID": 135294997939481,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jonas Blue, Dakota - Fast Car",
+        "ID": 119967863857704,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jorge Junior, Æj, Skylet, Jon Nelson - Fruta Fresca",
+        "ID": 140146391565743,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "JTL - My Lecon",
+        "ID": 129967207476956,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Jubël, NEIMY - Dancing in the Moonlight",
+        "ID": 112342542535493,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "K-391, Alan Walker, Tungevaag, Mangoo - Play",
+        "ID": 77353193478966,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Keen Champ, Raïko - Who Am I To Blame",
+        "ID": 106703313698197,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Kin Alura, Like Buraq, Josiah Nichols, Brenda - Dracula",
+        "ID": 130400676207890,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Kin Alura, ROBINS, Tim Goldn - Let Her Go",
+        "ID": 76992956636434,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Kin Alura, Santi, Moody Violet - Turn The Lights Off",
+        "ID": 80484540684728,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lady Gaga - Bad Romance",
+        "ID": 121684501000702,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lady Gaga - Bad Romance",
+        "ID": 90193745864430,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lady Gaga, Bruno Mars - Die With A Smile",
+        "ID": 136255809885002,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "LANY - Malibu Nights",
+        "ID": 103553924235806,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "LAUV, LANY - Mean It",
+        "ID": 93450787634089,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "LE SSERAFIM - Smart",
+        "ID": 94566531143629,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lenka - Trouble Is a Friend",
+        "ID": 111068454883456,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lewis Capald - Wish You The Best",
+        "ID": 117828312829945,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Little Mix, Jason Derulo - Secret Love Song",
+        "ID": 109713352166180,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lone Tusker - Birds Of A Feather",
+        "ID": 124037561460060,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lone Tusker, Ugg'A - hate that i made you love me",
+        "ID": 129881936628397,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lost Frequencies - Are You With Me",
+        "ID": 84623764632366,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Lost Frequencies, Elley Duhé, X Ambassadors - Back To You",
+        "ID": 104395124675436,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Mabel - Mad Love",
+        "ID": 107812042215764,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Madison Beer - Reckless",
+        "ID": 102912669392666,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "MAGIC! - Rude",
+        "ID": 122429038123386,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Marc Suarez, FRIDA, Anntoine - Piece Of My Heart",
+        "ID": 72787733799187,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Mark Ambo - Belong Together",
+        "ID": 122275330554936,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Maroon 5 - She Will Be Loved",
+        "ID": 76781669995330,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Matt Hansen - Better Off Without Me",
+        "ID": 95272758848091,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "MC Fioti, Future, J Balvin, Stefflon Don, Juan Magán - Bum Bum Tam Tam",
+        "ID": 129386734048991,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Mert Can, Arda Işık, RÆ - Down Under",
+        "ID": 101284839783003,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - Wrecking Ball",
+        "ID": 91376170788144,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - Party In The U.S.A",
+        "ID": 118934579813258,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - Angels Like You",
+        "ID": 106342084931800,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - Flowers",
+        "ID": 124517754716865,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - We Can't Stop",
+        "ID": 98240834080053,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - When I Look At You",
+        "ID": 132743449651599,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - The Climb",
+        "ID": 73760103038718,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - See You Again",
+        "ID": 128911133287222,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - Jaded",
+        "ID": 109968408589782,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Miley Cyrus - Don't Walk Away",
+        "ID": 133148880969759,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Mitsk - My Love Mine All Mine",
+        "ID": 129526793126133,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "MK, Chrystal - Dior",
+        "ID": 103117346169398,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Mr. Probz, Robin Schulz - Waves - Robin Schulz Radio Edit",
+        "ID": 122327771925735,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Natalie Taylor - Surrender",
+        "ID": 109903232142185,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Nicky Youre - Eyes On You",
+        "ID": 122606211970600,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Nicky Youre, hey daisy - Sunroof",
+        "ID": 71382937714972,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Noah Kahan - The Great Divide",
+        "ID": 96107257528666,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Offmind - Prayer In C",
+        "ID": 128608822195022,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Olivia Rodrigo - traitor",
+        "ID": 78328369564089,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Olivia Rodrigo - drop dead",
+        "ID": 126643675414846,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Olivia Rodrigo - deja vu",
+        "ID": 87939250541144,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Olivia Rodrigo - happier",
+        "ID": 114284534574771,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ONE OK ROCK - Renegades",
+        "ID": 121830369745365,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ONE OK ROCK - Wherever you are",
+        "ID": 76305855988681,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ONE OK ROCK - Heartache",
+        "ID": 120734605281763,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ONE OK ROCK - Clock Strikes",
+        "ID": 113005294912344,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ONE OK ROCK - The Beginning",
+        "ID": 109165825706966,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ONE OK ROCK - We Are",
+        "ID": 125673375655979,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ONE OK ROCK, 5 Seconds of Summer - Take What You Want",
+        "ID": 114020530097709,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "OneRepublic - I Ain't Worried",
+        "ID": 98080277612869,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "OneRepublic, Alesso - If I Lose Myself",
+        "ID": 137429908099347,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Passenger, Ed Sheeran - Let Her Go",
+        "ID": 140027783788658,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Pedro Capó, Farruko - Calma - Remix",
+        "ID": 85414482266394,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Pink Sweat$ - At My Worst",
+        "ID": 134000109666750,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Portugal. The Man - Feel It Still",
+        "ID": 81766271078674,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "PSY - Gangnam Style",
+        "ID": 101320296791564,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Revelries, Patrick Lite - Somewhere Far Away",
+        "ID": 76493252227505,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "rivve, Mysterie, Afrostylez, last vice - Fame Is A Gun",
+        "ID": 136290419138580,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ruth B. - Dandelions",
+        "ID": 109729513617122,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Ruth B., Dean Lewis - 28",
+        "ID": 73996982726135,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Sabrina Carpenter - Nonsense",
+        "ID": 97629433909768,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Sabrina Carpenter - Taste",
+        "ID": 137666346886861,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Sasha Alex Sloan - Dancing With Your Ghost",
+        "ID": 81551107990208,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Selena Gomez & The Scene - Who Says",
+        "ID": 95652602038096,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Selena Gomez & The Scene - Love You Like A Love Song",
+        "ID": 105887781235461,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Shane Filan - Beautiful In White",
+        "ID": 116295846289766,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SHAUN, Conor Maynard, Sam Feldt - Way Back Home",
+        "ID": 116465023443163,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Shawn Mendes - Wonder",
+        "ID": 96220864789606,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Shawn Mendes - Imagination",
+        "ID": 109012342567485,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Shawn Mendes - Stitches",
+        "ID": 108094959130995,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Shawn Mendes - Treat You Better",
+        "ID": 123363155256369,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Shawn Mendes, Camila Cabello - Señorita",
+        "ID": 79851605230833,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SHKHR, Josiah Nichols, Maya Mikity, one more cig - Drift With Me",
+        "ID": 118984321795856,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SIENNA SPIRO - Great Expectation",
+        "ID": 95107479863821,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Slander, Dylan Matthew - Love Is Gone",
+        "ID": 92271553035991,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SPEN, Dawty, Vory, Still Tech - Tomorrow",
+        "ID": 105648121655004,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SWAG-II - I Miss You",
+        "ID": 138592276425362,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "SZA - BMF",
+        "ID": 126294553391416,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Taylor Swif - Style",
+        "ID": 81536936738184,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Taylor Swif - Blank Space",
+        "ID": 81852066002729,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Taylor Swif - All Too Well",
+        "ID": 131703031015451,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Taylor Swift - Cruel Summer",
+        "ID": 79956595420087,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Taylor Swift - The Fate of Ophelia",
+        "ID": 104301661692505,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Taylor Swift - Enchanted",
+        "ID": 95803190201666,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Taylor Swift - Love Story",
+        "ID": 132320912878621,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Temper City - Self Aware",
+        "ID": 138767529349764,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "The Cranberries - Zombie",
+        "ID": 127811631943952,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "The Walkers, Alan Walker - Unity",
+        "ID": 100560041005050,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "The Weeknd, Ariana Grande - Save Your Tears (Remix)",
+        "ID": 103618505109588,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "The Weeknd, Ariana Grande - Die For You",
+        "ID": 102541810446049,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "The Weeknd, Ariana Grande - Save Your Tears",
+        "ID": 119236324487203,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Tiësto, Mabel - God Is A Dancer",
+        "ID": 130924389828700,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Tim Goldn, Lauren Nicole, Kin Alura - Survive",
+        "ID": 98321143965853,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Troye Sivan - Angel Baby",
+        "ID": 119188176655016,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Vaultboy - I Wish U Knew",
+        "ID": 117583777367049,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Vaultboy - Aftermath",
+        "ID": 87858695926803,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Venteris, one more cig - Attention",
+        "ID": 88661326021312,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Victor Perry, one more cig - How Many Ways",
+        "ID": 106893399128495,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Wale, Rihanna - Bad",
+        "ID": 117047617762712,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Westlife - I Lay My Love on You",
+        "ID": 82561553156960,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Westlife, Bernard Löhr - Soledad",
+        "ID": 122265427826660,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Why Don't We - 8 Letters",
+        "ID": 121044439689247,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Why Don'T We - 8 Letters",
+        "ID": 116714082814851,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Wiz Khalifa, Charlie Puth - See You Again",
+        "ID": 138084027606734,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "WizTheMc, bees & honey - Show Me Love",
+        "ID": 119461116713143,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Zach Hood - Never Knew A Heart Could Break Itself",
+        "ID": 90153584474894,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "Zack Tabudlo - Give Me Your Forever",
+        "ID": 125248053427705,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+            "PitchShift": 1.0
+        }
+    },
   ],
   "Amapiano": [
     {
@@ -391,22 +2699,6 @@
       }
     },
     {
-      "Title": "Amapiano Orang Tua - 12",
-      "ID": 138020503777685,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Amapiano Orang Tua - 13",
-      "ID": 119473131103775,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Monalisa",
       "ID": 127618716894961,
       "PlaybackSpeed": 0.5,
@@ -431,24 +2723,8 @@
       }
     },
     {
-      "Title": "Amapiano Orang Tua - 17",
-      "ID": 112482795875243,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Toxic",
       "ID": 102056702389376,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Amapiano Orang Tua - 19",
-      "ID": 119027349242162,
       "PlaybackSpeed": 0.5,
       "VoiceEffects": {
         "PitchShift": 1
@@ -853,38 +3129,6 @@
       }
     },
     {
-      "Title": "Rnb - 11",
-      "ID": 130002183010310,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Rnb - 12",
-      "ID": 127414857870475,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Rnb - 13",
-      "ID": 75283571567820,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Rnb - 14",
-      "ID": 118635963285117,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
       "Title": "Katy Parry",
       "ID": 134377187935325,
       "PlaybackSpeed": 0.5,
@@ -911,282 +3155,6 @@
     {
       "Title": "Rnb - 15",
       "ID": 76953739463260,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Rnb - 16",
-      "ID": 113991938597459,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Rnb - 17",
-      "ID": 74794784588083,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "SPOTIFY": [
-    {
-      "Title": "Spotify - 01",
-      "ID": 139852553763115,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 02",
-      "ID": 128575716329088,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 03",
-      "ID": 73886902576998,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 04",
-      "ID": 102125138850261,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 05",
-      "ID": 138891190549209,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 06",
-      "ID": 130550250986323,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 07",
-      "ID": 102965194800981,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 08",
-      "ID": 70464133194206,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Spotify - 09",
-      "ID": 78766030858099,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Cher - The Golden Girls",
-      "ID": 80800437660745,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Bounce & Pa Edition",
-      "ID": 105892507867965,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Chris Brown - Under The Influencer",
-      "ID": 101636058266724,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Craig Connelly - Black Hole",
-      "ID": 93798241521468,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Digi Boom",
-      "ID": 132065766607432,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Justin Bieber - 01",
-      "ID": 129537273254547,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Justin Bieber - 02",
-      "ID": 73922923724718,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    }
-  ],
-  "BEDROOM": [
-    {
-      "Title": "Lany - XXL",
-      "ID": 97567139988169,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lany - ILYSB",
-      "ID": 123150032529897,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lany - Cause You Have to",
-      "ID": 106302375011183,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lany - Thicke and Thin",
-      "ID": 94627074025181,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lana Del Rey - Brooklyn Baby",
-      "ID": 81555566820174,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lana Del Rey - Born to Die",
-      "ID": 121337791563900,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lana Del Rey - Cinnamon Girl",
-      "ID": 106418483621945,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lana Del Rey - Young and Beautiful",
-      "ID": 122139124737451,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Lana Del Rey - Summetime Madness",
-      "ID": 113937408162226,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Rose ft The Weeknd - Fill The Void",
-      "ID": 128873360073801,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Alan Walker - The Drum",
-      "ID": 90915147845968,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Macky Gee - Aftershock",
-      "ID": 135286371977753,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Evanescence - Bring Me to Life",
-      "ID": 78259191464635,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Thailand - 01",
-      "ID": 125763859515580,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Ariana Grande ft The Weeknd",
-      "ID": 113011549102720,
-      "PlaybackSpeed": 0.5,
-      "VoiceEffects": {
-        "PitchShift": 1
-      }
-    },
-    {
-      "Title": "Ariana Grande - Bye",
-      "ID": 105527209334857,
       "PlaybackSpeed": 0.5,
       "VoiceEffects": {
         "PitchShift": 1
