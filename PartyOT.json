@@ -3684,5 +3684,143 @@
        "PitchShift": 1.0
       }
     }
+  ],
+	"Amapiano": [
+    {
+      "Title": "ORANG TUA - Curi-curi Pandang",
+      "ID": 93146319942454,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - One in Million",
+      "ID": 112919626341071,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Cinta dan Rahasia",
+      "ID": 133164583279592,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Izinkan Aku Mencintaimu",
+      "ID": 84239340182335,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Justin Bieber Remix",
+      "ID": 108695658922735,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Sedia Aku Sebelum Hujan",
+      "ID": 96084074229455,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Garam & Madu",
+      "ID": 129005915241101,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Love Story",
+      "ID": 121266393263092,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Sial",
+      "ID": 138791355966920,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Ngapain Repot",
+      "ID": 96975904857683,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Malu-malu",
+      "ID": 123917782902078,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Monalisa",
+      "ID": 127618716894961,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - I Might",
+      "ID": 124638290522925,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Love Never Felt So Good",
+      "ID": 127869707823194,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Toxic",
+      "ID": 102056702389376,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Gemu Fa Mi Re",
+      "ID": 92616997246089,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ORANG TUA - Lapor Monitor Ketua",
+      "ID": 86968496184248,
+      "PlaybackSpeed": 0.5,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
   ]
 }
