@@ -2859,6 +2859,54 @@
         }
     },
     {
+        "Title": "ORANG TUA - Teganya Kau",
+        "ID": 117700283723656,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+           "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ORANG TUA - Keras Kepala",
+        "ID": 120480621846743,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+           "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ORANG TUA - Dia Masa Lalumu, Aku Masa Depanmu",
+        "ID": 95914571652134,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+           "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ORANG TUA - Terlalu Cinta",
+        "ID": 108509171719644,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+           "PitchShift": 1.0
+        }
+    },
+    {
+        "Title": "ORANG TUA - Piki Piki",
+        "ID": 121292342510993,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+           "PitchShift": 1.0
+        }
+    },
+	{
+        "Title": "ORANG TUA - Zumi Za",
+        "ID": 111644022113186,
+        "PlaybackSpeed": 0.450,
+        "VoiceEffects": {
+           "PitchShift": 1.0
+        }
+    },
+    {
         "Title": "ORANG TUA - INGIN MEMELUK DIRIMU",
         "ID": 79026384407096,
         "PlaybackSpeed": 0.450,
