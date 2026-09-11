@@ -3619,6 +3619,15 @@
       "VoiceEffects": {
        "PitchShift": 1.0
       }
+    },  
+	  "Doja Cat": [
+    {
+      "Title": "WOMAN (Miami Bass)",
+      "ID": 129428723110881,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     },
     {
       "Title": "Rnb - 02",
