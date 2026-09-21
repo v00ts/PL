@@ -17,6 +17,90 @@
       }
     }
   ],
+    "BREAKBEAT": [
+    {
+      "Title": "MAHALINI SISA RASA BKB",
+      "ID": 90651662918929,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "KANGEN BKB",
+      "ID": 103719226755894,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ANUGERAH TERINDAH BKB",
+      "ID": 82633871844202,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "PUPUS BKB",
+      "ID": 74062943686747,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "KASIH ABA-ABA BKB",
+      "ID": 82492552101871,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "MORENA BKB",
+      "ID": 94458903361425,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
+      "MANYAO": [
+    {
+      "Title": "TING BEI SHANG",
+      "ID": 94521954083673,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "KANGEN BKB",
+      "ID": 103719226755894,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ANUGERAH TERINDAH BKB",
+      "ID": 82633871844202,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "MORENA BKB",
+      "ID": 94458903361425,
+      "PlaybackSpeed": 1.0,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    }
+  ],
   "Dr. Dre": [
     {
       "Title": "Forgot About Dre",
@@ -3308,6 +3392,14 @@
       "Title": "Shoot No Na (Miami Bass)",
       "ID": 79007616462248,
       "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "SEDIA AKU SEBELUM HUJAN",
+      "ID": 120081259314090,
+      "PlaybackSpeed": 1,
       "VoiceEffects": {
         "PitchShift": 1
       }
