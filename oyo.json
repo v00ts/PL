@@ -1,8 +1,16 @@
-{
+@din{
   "BKB JAWA": [
     {
       "Title": "CUNDAMANI BKB",
       "ID": 102170575894270,
+      "PlaybackSpeed": 0.43,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "KISINAN 2 BKB",
+      "ID": 132718520910424,
       "PlaybackSpeed": 0.43,
       "VoiceEffects": {
         "PitchShift": 1
@@ -17,6 +25,14 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "KANGEN BKB",
+      "ID": 103719226755894,
+      "PlaybackSpeed": 1,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "MANYAO": [
@@ -27,12 +43,28 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "TIAO LOU JI BKB",
+      "ID": 96727385219767,
+      "PlaybackSpeed": 0.43,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "MIAMI BASS": [
     {
       "Title": "WOMAN (Miami Bass)",
       "ID": 129428723110881,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "NISSAN ALTIMA (Miami Bass)",
+      "ID": 81281773912008,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -47,6 +79,14 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "CELINE DION - IMMORTALITY",
+      "ID": 132659854602081,
+      "PlaybackSpeed": 0.43,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "HIPHOP": [
@@ -57,12 +97,28 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "Rock Ya Body",
+      "ID": 98608920312891,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "RNB": [
     {
       "Title": "Whitney Houston - It's Not Right But It's Okay",
       "ID": 90697141644328,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "The Weeknd - After Hours",
+      "ID": 98107834668647,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
@@ -77,12 +133,28 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "WizTheMc - Show Me Love (ft. Tyla)",
+      "ID": 77339652189094,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "K-POP": [
     {
       "Title": "NewJeans - OMG",
       "ID": 79809687643237,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "NewJeans - ETA",
+      "ID": 89639478941894,
       "PlaybackSpeed": 0.435,
       "VoiceEffects": {
         "PitchShift": 1
@@ -97,12 +169,28 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "MOLIY - Shake It To The Max",
+      "ID": 82389508522883,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "SPOTIFY": [
     {
       "Title": "Justin Bieber - Somebody to Love (ft. Usher)",
       "ID": 99705318872106,
+      "PlaybackSpeed": 0.4,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "SUMMER WALKER - spend it",
+      "ID": 132517170849648,
       "PlaybackSpeed": 0.4,
       "VoiceEffects": {
         "PitchShift": 1
@@ -117,12 +205,28 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "Renato Bruno - Nyasia 98",
+      "ID": 90367611015707,
+      "PlaybackSpeed": 0.435,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "INDOBOUNCE": [
     {
       "Title": "1234",
       "ID": 71118930718053,
+      "PlaybackSpeed": 0.43,
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "ALLO K3BI BKB",
+      "ID": 119226090496742,
       "PlaybackSpeed": 0.43,
       "VoiceEffects": {
         "PitchShift": 1
@@ -143,6 +247,22 @@
       "VoiceEffects": {
         "PitchShift": 1
       }
+    },
+    {
+      "Title": "MIXFUN 2 - RnB",
+      "ID": [
+        95507789750655,
+        74104333298626,
+        122005124538392
+      ],
+      "PlaybackSpeed": [
+        0.4,
+        0.5,
+        0.4
+      ],
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
     }
   ],
   "NOXIOUS": [
@@ -159,6 +279,22 @@
         0.435,
         0.435,
         0.417,
+        0.435,
+        0.435
+      ],
+      "VoiceEffects": {
+        "PitchShift": 1
+      }
+    },
+    {
+      "Title": "NOX 2 - RnB & HipHop",
+      "ID": [
+        78849595396070,
+        125002349149287,
+        72124630962147
+      ],
+      "PlaybackSpeed": [
+        0.435,
         0.435,
         0.435
       ],
